@@ -110,7 +110,7 @@ The dashboard relies on a star schema centered around a consolidated sales fact 
 
 ### 🔬 Page 2: Sub-Category Diagnostic (Drill-Through Page)
 
-![alt text](image-1.png)
+![alt text](Assets/Drill_Through_Page.png)
 
 #### 🔍 Key Features:
 - **🎯 Dynamic Header Banner:** - Dynamically renders the active drilled product category.
