@@ -93,7 +93,7 @@ The dashboard relies on a star schema centered around a consolidated sales fact 
 
 ### 📈 Page 1: Main Board (Executive Overview)
 
- ![alt text](image.png)
+ ![alt text](Assets/Main_Dashboard.png)
 
  #### 🔍 Key Features:
 - **🏆 Header KPI Cards:** Instant tracking for Gross Revenue, YoY Growth Badge, Product Cost, and Profit Margin % .
