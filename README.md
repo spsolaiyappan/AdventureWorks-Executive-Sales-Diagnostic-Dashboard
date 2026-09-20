@@ -71,7 +71,7 @@ To reflect modern data analytics workflows, Google Gemini was integrated across 
 
 The dashboard relies on a star schema centered around a consolidated sales fact table connected to six dimension tables via 1-to-Many ($1:*$) relationships:
 
- ![alt text](image-2.png)
+ ![alt text](Assets/Star_Schema.png)
 
 **Table Breakdown:** 
 
