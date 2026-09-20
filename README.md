@@ -68,7 +68,7 @@ To reflect modern data analytics workflows, Google Gemini was integrated across 
 ## 📊 Dashboard Architecture & Visual Showcase
 
 ### 📥 Project Downloads
-[📥 Download Power BI (.pbix) File] ()
+[📥 Download Power BI (.pbix) File] (Dashboard_Power_Bi_File)
 
 ### 🗄️ Data Model & Star Schema Architecture
 
