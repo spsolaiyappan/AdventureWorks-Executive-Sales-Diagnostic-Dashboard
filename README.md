@@ -67,6 +67,9 @@ To reflect modern data analytics workflows, Google Gemini was integrated across 
 
 ## 📊 Dashboard Architecture & Visual Showcase
 
+### 📥 Project Downloads
+[📥 Download Power BI (.pbix) File] ()
+
 ### 🗄️ Data Model & Star Schema Architecture
 
 The dashboard relies on a star schema centered around a consolidated sales fact table connected to six dimension tables via 1-to-Many ($1:*$) relationships:
